@@ -5,7 +5,6 @@ Fork and ✴️ star this repo
 Simple, short and sweet beginners friendly javascript scripting language 
 
 These program are written in visual studio code ide for windows. 
-These programs are not very sophisticated as these are beginners friendly and have many bugs. Anyone who is new to javascript language can practice these examples.
 
 * This programs written in JavaScript with HTML and CSS.
 * Beautify/Format your code before making a PR.
